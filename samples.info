@@ -1,0 +1,20 @@
+[
+	{
+		"entity": "A_BusinessPartner",
+		"namespace": "BusinessPartnerA2X",
+		"file": "/home/user/projects/RiskManagementLJ/srv/external/data/BusinessPartnerA2X-A_BusinessPartner.csv",
+		"isFixed": false
+	},
+	{
+		"entity": "Mitigations",
+		"namespace": "RiskManagementLJ",
+		"file": "/home/user/projects/RiskManagementLJ/db/data/RiskManagementLJ-Mitigations.csv",
+		"isFixed": false
+	},
+	{
+		"entity": "Risks",
+		"namespace": "RiskManagementLJ",
+		"file": "/home/user/projects/RiskManagementLJ/db/data/RiskManagementLJ-Risks.csv",
+		"isFixed": false
+	}
+]
